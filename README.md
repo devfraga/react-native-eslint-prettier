@@ -208,11 +208,12 @@ Como no react-native acabamos criando componentes com final .js podemos adiciona
 
 # Fimm woww! 🔥
 
-- Agora seu arquivo `.eslintrc.json` deve estar assim: [Acessar arquivo]()
+- Agora seu arquivo `.eslintrc.json` deve estar assim: [Acessar arquivo](https://github.com/devfraga/react-native-eslint-prettier/blob/main/.eslintrc.json)
+- Agora seu arquivo `.prettierrc.json` deve estar assim: [Acessar arquivo](https://github.com/devfraga/react-native-eslint-prettier/blob/main/.prettierrc.json)\
   <br>
 
 # Acompanhe nossas redes:
 
-[Youtube](https://www.youtube.com/c/Sujeitoprogramador/)\
-[Instagram](https://www.instagram.com/sujeitoprogramador/)\
-[Curso completo desenvolvendo aplicativos e sites](https://sujeitoprogramador.com/fabricadeaplicativos/)
+- **[Canal no youtube](https://www.youtube.com/c/Sujeitoprogramador/)**
+- **[Instagram](https://www.instagram.com/sujeitoprogramador/)**
+- **[Curso completo desenvolvendo aplicativos e sites](https://sujeitoprogramador.com/fabricadeaplicativos/)**
