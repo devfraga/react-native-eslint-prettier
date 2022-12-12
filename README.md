@@ -148,7 +148,7 @@ node_modules/
 
 ```jsonc
 {
-  "extends": ["plugin:react/recommended", "airbnb", "airbnb/hooks", "prettier", "prettier/react"]
+  "extends": ["plugin:react/recommended", "airbnb", "airbnb/hooks", "prettier" ]
 }
 ```
 
